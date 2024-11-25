@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.gridlayout.widget.GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    app:columnCount="3"
+    app:rowCount="3"
+    app:useDefaultMargins="true">
+
+    <!-- 9 Buton -->
+    <Button
+        android:id="@+id/button00"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="0"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button02"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button03"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button04"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button05"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button06"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button07"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+    <Button
+        android:id="@+id/button08"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:text=""
+        app:layout_column="1"
+        app:layout_columnWeight="1"
+        app:layout_row="0"
+        app:layout_rowWeight="1" />
+
+
+
+</androidx.gridlayout.widget.GridLayout>
